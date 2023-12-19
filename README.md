@@ -10,7 +10,7 @@ I am currently working towards earning certifications as I find it is pertinent 
 
 # Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe2762&layout=compact&langs_count=8&hide=javascript,html&theme=radical)
+<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe2762&layout=compact&langs_count=8&hide=javascript,html&theme=radical)
 
 
 <!--START_SECTION:waka-->
